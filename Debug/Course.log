@@ -1,0 +1,8 @@
+﻿  MyForm.cpp
+C:\Users\Юрий\Downloads\Шедогубов Курсовая АиСД\Bogosort\MyForm.h(817,13): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+C:\Users\Юрий\Downloads\Шедогубов Курсовая АиСД\Bogosort\MyForm.h(848,28): warning C4244: инициализация: преобразование "double" в "unsigned int", возможна потеря данных
+C:\Users\Юрий\Downloads\Шедогубов Курсовая АиСД\Bogosort\MyForm.h(853,21): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+  .NETFramework,Version=v4.7.2.AssemblyAttributes.cpp
+  Создание кода...
+  MyForm.obj : обнаружен модуль MSIL; для MSIL последовательная компоновка отключена; выполняется полная компоновка
+  Course.vcxproj -> C:\Users\Юрий\Downloads\Шедогубов Курсовая АиСД\Bogosort\Debug\Course.exe

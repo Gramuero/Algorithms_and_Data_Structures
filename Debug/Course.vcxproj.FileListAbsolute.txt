@@ -1,0 +1,12 @@
+C:\Users\mishe\source\repos\Course\Debug\Course.vcxprojAssemblyReference.cache
+C:\Users\mishe\source\repos\Course\Debug\Course.MyForm.resources
+C:\Users\mishe\source\repos\Course\Debug\Course.vcxproj.GenerateResource.cache
+C:\Users\mishe\source\repos\Course\Debug\Course.exe
+D:\￾ӫѬ\Debug\Course.vcxproj.AssemblyReference.cache
+D:\￾ӫѬ\Debug\Course.MyForm.resources
+D:\￾ӫѬ\Debug\Course.vcxproj.GenerateResource.cache
+D:\￾ӫѬ\Debug\Course.exe
+C:\Users\Юрий\Downloads\Шедогубов Курсовая АиСД\Bogosort\Debug\Course.vcxproj.AssemblyReference.cache
+C:\Users\Юрий\Downloads\Шедогубов Курсовая АиСД\Bogosort\Debug\Course.MyForm.resources
+C:\Users\Юрий\Downloads\Шедогубов Курсовая АиСД\Bogosort\Debug\Course.vcxproj.GenerateResource.cache
+C:\Users\Юрий\Downloads\Шедогубов Курсовая АиСД\Bogosort\Debug\Course.exe
